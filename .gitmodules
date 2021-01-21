@@ -1,0 +1,3 @@
+[submodule "dog-site-frontend"]
+	path = dog-site-frontend
+	url = https://github.com/ThomasGately/dog-site-frontend.git
